@@ -26,3 +26,4 @@
 
 12.151-820下 第六至九行第一字重疊,應刪除 {除第一字稍微有點重疊,其餘不重疊,不影響閱讀,未修正}
 
+下載 : https://github.com/netsin/Qianlong-Tripitaka-/releases/tag/1.0
